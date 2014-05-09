@@ -1,0 +1,9 @@
+*.wfm
+*/Audio Files/
+Audio Files
+Fade Files
+*.wav
+Session File Backups
+Plug-In Settings
+CVS
+.DS_Store

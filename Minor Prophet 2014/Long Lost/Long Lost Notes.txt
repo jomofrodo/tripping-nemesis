@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+The original disk allocation for this session cannot be used.  Check the disk allocation window to see what's changed.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Your I/O setup has changed since the last time this session was saved.  Check the I/O Setups window to see what's changed.
+
+--------------------------------------------------------------------------------
+Missing or inactive plug-ins
+--------------------------------------------------------------------------------
+Track "Acoustic R" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Acoustic L" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Bass Vintech 2" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Bass SansAmp 2" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Electric" Insert 1 ("Gate") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Slide" Insert 1 ("Gate") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Slide.dup1" Insert 1 ("Gate") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Slide.dup2" Insert 1 ("Gate") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Lead Vocal.03" Insert 1 ("T-RackS Mastering Suite") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Lead Vocal.03" Insert 2 ("DeEsser") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Audio 3" Insert 1 ("AmpliTube") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Audio 3" Insert 2 ("T-RackS Mastering Suite") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "bvoc" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Drums" Insert 1 ("T-RackS Tube Compressor") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Master 1" Insert 1 ("T-RackS Mastering Suite") has been made Inactive because the plug-in is not present in the plug-ins folder.
